@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Phương Đông à!',
+    introTitle: 'Mỹ Nhung à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay mình cùng chơi game nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/profile.php?id=100022595113720
+    messLink: 'https://www.facebook.com/trieu.nhat.9883739'
 }
